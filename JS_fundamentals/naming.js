@@ -2,12 +2,12 @@
 //Rules
 
 // 1. no keyword in variable name
-var false =45;
+// var false =45;
 //2. no space or gap in variable name
-var gam e=false;
+// var gam e=false;
 
 //3. no quote
-var "add"="dhaka";
+// var "add"="dhaka";
 
 //5. name is case sensitive
 
